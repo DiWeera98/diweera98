@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinithi Weerakoon</h1>
-<h3 align="center">An enthusiastic undergraduate from University of Moratuwa</h3>
+<h3 align="center">An undergraduate from University of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diweera98&label=Profile%20views&color=0e75b6&style=flat" alt="diweera98" /> </p>
 
-- 📫 How to reach me **dinithisandarekha@gmail.com**
+- 📫 Reach me through **dinithisandarekha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
